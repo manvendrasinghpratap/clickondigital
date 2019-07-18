@@ -1,0 +1,14 @@
+<link rel="stylesheet" href="{{ asset('public/assets/css/open-iconic-bootstrap.min.css') }}">
+<link rel="stylesheet" href="{{ asset('public/assets/css/animate.css') }}">
+<link rel="stylesheet" href="{{ asset('public/assets/css/owl.carousel.min.css') }}">
+<link rel="stylesheet" href="{{ asset('public/assets/css/owl.theme.default.min.css') }}">
+<link rel="stylesheet" href="{{ asset('public/assets/css/magnific-popup.css') }}">
+<link rel="stylesheet" href="{{ asset('public/assets/css/aos.css') }}">
+<link rel="stylesheet" href="{{ asset('public/assets/css/ionicons.min.css') }}">
+<link rel="icon" href="{{ asset('public/assets/images/favi.png')}}" type="image/gif">
+<link rel="stylesheet" href="{{ asset('public/assets/css/bootstrap-datepicker.css') }}">
+<link rel="stylesheet" href="{{ asset('public/assets/css/jquery.timepicker.css') }}">
+<link rel="stylesheet" href="{{ asset('public/assets/css/flaticon.css') }}">
+<link rel="stylesheet" href="{{ asset('public/assets/css/icomoon.css') }}">
+<link rel="stylesheet" href="{{ asset('public/assets/css/style.css') }}">
+<link rel="stylesheet" href="{{ asset('public/assets/css/menu.css') }}">
